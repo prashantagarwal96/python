@@ -1,0 +1,2 @@
+x='Mani'
+print(x)
